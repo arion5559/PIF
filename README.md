@@ -12,8 +12,6 @@
             padding: 30px;
             color: #333;
         }
-css
-Copy code
     h1 {
         font-size: 2rem;
         color: #4CAF50;
@@ -55,8 +53,6 @@ Copy code
         <p>
             MusiGente es una red social de música desarrollada como proyecto de primer año del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM). A pesar de ser un proyecto realizado en solo dos semanas, destaca el esfuerzo y dedicación como programador, logrando implementar algunas características básicas pero funcionales.
         </p>
-css
-Copy code
     <h2>🌟 Características implementadas</h2>
     <ol>
         <li>Publica en el muro para compartir tus gustos musicales e inspirar a otros.</li>
